@@ -1,0 +1,17 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://www.villedebram.fr/wp-content/uploads/2022/04/soireepollutionlumineuse.png);
+  color: white;
+  padding: 150px 0px;
+background-size: cover;
+background-position: center;
+}
+
+.banner h1 {
+  font-size: 60px;
+}
+
+.banner h2 {
+  font-size: 30px;
+  font-weight: 300;
+  opacity: 0.8;
+  margin-bottom: 50px;
